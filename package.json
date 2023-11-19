@@ -1,0 +1,19 @@
+{
+  "name": "curso-de-api-rest-con-javascript-ejemplos-con-apis-reales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidx0x/Practica-API-REST-JavaScript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Davidx0x/Practica-API-REST-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Davidx0x/Practica-API-REST-JavaScript#readme"
+}
